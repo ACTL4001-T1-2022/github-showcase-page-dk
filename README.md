@@ -119,7 +119,7 @@ To derive the expected value of the franchise over 10 years, the discount rate w
 
 The mitigation of intrinsic and extrinsic risk factors arising from the launch of this new team is central to risk control. This can be achieved through reductions in the incidence with which adverse events occur (preventive interventions) or through reductions in the severity of the outcomes from the adverse events (therapeutic interventions).
 
-![image](https://user-images.githubusercontent.com/103165229/162574196-bbb7623d-912b-497f-affd-8317e6b3cb8b.png)
+        ![image](https://user-images.githubusercontent.com/103165229/162574196-bbb7623d-912b-497f-affd-8317e6b3cb8b.png)
 
 
 ## 6.1 Player Injury 
