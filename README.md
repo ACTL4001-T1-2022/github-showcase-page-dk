@@ -86,11 +86,11 @@ Collation of these metrics should occur twice a season in order for progress ove
 
 ### 5.1 Key Assumptions
 
-### 5.1.1 Correlation between player salary and performance
+#### 5.1.1 Correlation between player salary and performance
 
 In sport, it is typical for the best, high performing players to receive corresponding salaries in order to keep them with the teams. Although there are rare cases of overpay and player regression, this is a sound assumption in terms of gauging player skill as a whole. 
 
-### 5.1.2 CAPM
+#### 5.1.2 CAPM
 
 To derive the expected value of the franchise over 10 years, the discount rate was approximated by incorporating the CAPM assumptions and assuming they will not leverage their organisation. Since 0 debt was used over the horizon, the cost of capital was simply the cost of equity which was determined using the CAPM equation. The unlevered beta of 1.12 was extrapolated from the international peers median and the market return of 10% was the average return from the last 10 years.
 
