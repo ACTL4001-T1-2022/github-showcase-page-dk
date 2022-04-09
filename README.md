@@ -112,7 +112,7 @@ To derive the expected value of the franchise over 10 years, the discount rate w
 
 •	Inflation: Determined to be NULL
 
-•	Team Composition (4 forwards, 8 midfielders, 8 defenders, and 2 goalkeepers)
+•	Team Composition: 4 forwards, 8 midfielders, 8 defenders, and 2 goalkeepers
 
 
 # 6. Risk and Risk Mitigation Considerations 
