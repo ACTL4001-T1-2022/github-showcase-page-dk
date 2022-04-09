@@ -1,13 +1,4 @@
-# Actuarial Theory and Practice A
-
-
-
-#### Follow the [guide doc](Doc1.pdf) to submit your work. 
----
->Be creative! Feel free to link to embed your [data](player_data_salaries_2020.csv), [code](sample-data-clean.ipynb), [image](ACC.png) here
-
-More information on GitHub Pages can be found [here](https://pages.github.com/)
-![](Actuarial.gif)
+![](title pic.gif)
 
 
 # 1.	Objectives of Analysis
