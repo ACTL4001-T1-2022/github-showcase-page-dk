@@ -30,72 +30,61 @@ This report details the construction of a “competitive” national football te
 The selection criteria for the Rarita National Team (RNT) established was based on the success of winning teams and which statistics reflected significant relevance that contributed to their accomplishments (Appendix A). Our analysis focused on four sub-categories, offense, passing, defense and goalkeeping based on the top teams’ statistics in both 2020 and 2021. The top teams in 2020 and 2021 were determined to be Sobianitedrucy (SBD), Nganion (NGN), Dosqaly (DQL), and People's Land of Maneau (PLM).
 
 ### 2.1.1 Shooting   
- 	2020	2021
- 	DQL	NGN	SBND	AVG	SBND	PLM	NGN
-Games Played	7.27	8.025	7.92	5.91	7.98	7.69	7.03
-Goals	5.37	4.64	3.78	3.05	3.39	1.89	2.68
-Shots	24.82	46.83	53.9	29.16	37.97	13.17	38.18
-Shots on Target	9.59	17.5	8.29	9.66	10.01	4.68	13.29
-Shot on Target/Shot	0.39	0.37	0.15	0.33	0.26	0.36	0.35
-Shots/Game	26.12	47.49	54.57	29.91	38.57	12.4	38.35
-Shots on Target/Game	9.47	18.16	8.67	10.06	10.46	4.76	13.47
-Shots/Goal	4.62	10.09	14.26	9.55	11.20	6.97	14.25
-SoT/Goal	2.59	2.68	6.50	3.02	3.79	2.81	2.87
+
+![image](https://user-images.githubusercontent.com/103165229/162574108-aa73d899-a012-4a24-b838-b74f85a30085.png)
+
 
 From our analysis, the general trend reflected that winning teams averaged significantly higher goals relative to the mean as they were able to either effectively establish a strong offence with a higher number of shots per game or demonstrate a stronger finishing rate reflected in low shots on target to goal ratio relative to the average in the tournament.
 
 ### 2.1.2 Passing
- 	2021
- 	SBD	PLM	NGN	AVG
-Completed Pass/Game	126.80	107.69	187.95	166.17
-Attempts Pass/Game	148.19	129.00	213.44	201.88
-Total Completion Percentage	86%	86%	88%	82%
-Short Passes Completion Percentage	92%	93%	92%	90%
-Medium Passes Completion Percentage	90%	91%	92%	87%
-Long Pass Completion Percentage	68%	64%	76%	62%
-Assists	2.4	2.26	2.37	1.75
+ 	
+![image](https://user-images.githubusercontent.com/103165229/162574115-ef0777c7-3135-4617-981d-cbd08175182f.png)
+
 
 A common trend amongst winning teams is their ability to have high pass completion at all ranges and high number of assists. Upon further research, passing plays an integral part in a team’s performance as it retains possession of the ball with the potential of advancing it towards the opposition’s goal without allowing an opportunity to press back (Almazov, 2020).
 
 ### 2.1.3 Defense 
- 	2020
- 	SBD	PLM	NGN	AVG
-Tackles	27.57	24.68	27.89	30.23
-Tackle & Possession	16.58	11.95	20.00	18.24
-Percentage Success of Pressure	26%	23%	36%	27%
-Blocking a shot	4.03	4.89	1.96	6.08
-Blocking a Pass	19.07	19.59	21.31	20.98
-Interceptions	22.42	30.51	16.84	24.99
-Clearances	35.29	33.36	20.74	36.05
+
+![image](https://user-images.githubusercontent.com/103165229/162574125-aabde669-bc9c-4193-9b83-158cca68bfad.png)
+
 
 ## 2.1.4 Goalkeeping
- 	2020	2021
- 	SBD	NGN	AVG	SBD	PLM	NGN	AVG
-Goals Against	0.19	0.61	2.16	0.48	0.29	0.78	1.53
-Percentage saves/SoT	91%	77%	72%	75%	77%	69%	66%
+
+![image](https://user-images.githubusercontent.com/103165229/162574141-84b26656-d167-4f33-b92d-176c036d6eb1.png)
+
+
 The findings behind the winning teams’ defense shockingly unveiled slightly below average statistics such as tackles, blocking shots, clearances, and interceptions (except for PLM). However, these teams still manage to have a significantly lower number of goals conceded and higher percentages of save per shot on target. Hence, upon team selection, defense statistics should be weighted less into consideration but a strong goalkeeper with a high percentage save per shot on target is recommended.
 
 ### 2.2	Probability ranges
+
 A “high probability” of a championship in any given year is 20%. This probability was deduced based on various statistical models on the previous two FIFA World Cups detailing the likelihood of favorites winning the tournament at 15-17% ranges. Therefore, 20% would be an excellent margin in terms of ‘high probability’. These numbers were calculated through prediction models which ran 10,000 random simulations of the game while incorporating league data, squad statistics, player history, and match conditions. These simulations were run using the rating-based model which is similar to the FIFA world cup system.
 
 ### 2.3 Spending
- 
+
+ ![image](https://user-images.githubusercontent.com/103165229/162574163-9ef056f6-223f-4418-8243-d8c0f12e813d.png)
 
 The initial spending required at 2022 was determined to be 2,896,274,482 Doubloons consisting of operating costs and player acquisition costs. Operating costs include wages, facility management, rent, and other overhead costs while player costs involve scouting and 1-year term contract purchases. Using our team selection metric alongside the assumption that player’s salaries give an accurate representation of their performance, 22 players were contracted totalling 365,490,000 Doubloons (Appendix B). The total expense by 2031 was forecasted to be 18,967,006,753 Doubloons.
 
 ### 2.4 Direct Team Revenue
- 
+
+ ![image](https://user-images.githubusercontent.com/103165229/162574169-5fe5f4a4-e409-475d-9562-e18b9eac8c23.png)
+
 The revenue forecasting was also determined using a 3-year moving average and the initial revenue generation was determined to be 2,896,645,151 Doubloons. This revenue consists of merchandising revenue, gate receipts and revenue from matchday, media revenues, and franchising and other advertising income. Within the analysis, 2 scenarios were used - baseline and ideal. In both scenarios the team were expected to rank top 10 however, in the ideal scenario the team’s revenue was determined with a high probability of achieving the FSA Championship. Additionally, Rarita are expected to rise up the ladder and induce greater average league attendance so calculations involving revenue were adjusted for. The revenue generated by 2031 was forecasted to be 29,627,220,763 Doubloons.
 
 # 3.	Economic Impact
 
 ### 3.1 Impact on GDP and other economic indices
+
 The construction of a competitive team and the expansion of football in terms of sport leads to several notable impacts on the economy. Gross Domestic Product (GDP) is a commonly used metric to determine the economic presence of certain industries and products, which is applicable to Rarita and its national team, Sports to $14.4 billion of the GDP and 128,443 Full-Time Equivalent (FTE) jobs of a country according to an Australian study, whereby football has a 7% stake in the Sales figure of $32 million and Domestic Production of $29 million. A pair of analytical models performed to gauge the economic impact of football indicated through an Economic Impact Analysis (EIA) that even medium sized events generated a net increase in economic activity in the medium sized city within the study of $5.6 million (Taks et al. 2011). This accentuates Rarita’s forecasted positive economic impact as a direct result of the competitive team, through a combination of its increasing GDP and employment. 
 However, it must be noted that stadiums are costly buildings to construct and the same study (Taks et al. 2011) showed that when conducting a Cost Benefit Analysis (CBA), there was a net negative of $2.4 million, much of which is attributable to the costs associated with stadium construction, coming to $9.6 million (Appendix C). New stadium structures or improvements evoke the novelty effect (Appendix D). Thus, Rarita is able to uphold such positive impacts by ensuring sustainability in the construction and renovation of the stadium.
+
 ### 3.2 Impact on related industries and Rarita provinces
+
 There is an undeniable economic impact that winning and competitive teams have, despite the significant subsidy of the stadium that must be acknowledged, where teams create job opportunities, team sales, tax revenue, increases in tourism, and consumer spending. Winning teams have the highest average values for interest and, by a wide margin, willingness-to-pay from the fanbase. Both franchises in this study had also been the most successful teams in their cities in the years immediately preceding the survey. The Vikings, with one highly successful (15-1) season, garnered much more support (Owen et al. 2006). This further underlines the notion that cities with more than one sports team have higher per capita money incomes than cities without any teams (Gius et al. 2001).
 Another aspect that must be considered in terms of economics is the intangibles that are difficult to gauge with traditional metrics. This includes cultural changes within the city which is further boosted through marketing and advertisements, which leads to a ‘major team city’ image that contributes to the economy and tourism, along with a ‘civic pride’ generated from being a part of such a city (Appendix E).  
+
 # 4.	Implementation Plan
+
 ### 4.1 Proposal
 Team selection of Rarita’s National Team will be conducted based on the criteria discussed previously whereby the focus will surround a player’s salary and key skills. As there are enough capable players from Rarita, seeking player loans are unnecessary, hence the squad selection is as follows, (Appendix F). In the future, the Rarita National Team should constantly adapt to the rapidly changing football world either by investing into fostering young talent in academy teams or scouting promising players.
 
@@ -106,19 +95,28 @@ A general timeline which the RNT should follow within the next ten years is:
 3.	In the final five years, with a 20% probability of winning the FSA tournament every year there is a 67.23% chance of accomplishing this achievement at least once.
 
 This revenue consists of merchandising revenue, gate receipts and revenue from matchday, media revenues, and franchising and other advertising income. Additionally, the increase in revenue derived from maintaining a competitive team was approximated and as such, a sensitivity analysis was used on the net present value. As mentioned previously, the overall revenue was determined using a 3-year moving average of the growth rates to accommodate for randomness and to represent an overall trend rather than specific details. 
- 
+
+ ![image](https://user-images.githubusercontent.com/103165229/162574182-935420df-bc1c-4608-a637-8e2f8030bc21.png)
+
 ### 4.2 Key Monitoring Metrics
+
 Key metrics to be used to monitor the team’s progress over the next 10 years include their win-loss record over the season, performance against upper tier teams (above 0.500 win%) versus lower tier teams (below 0.500 win%), consistency in record, brand value, revenue generated and aggregate market value of the players (Appendix G).
 Collation of these metrics should occur twice a season in order for progress overview and feedback for improvement; such as highlighting areas of underperformance, budget allocation, and marketing plan. The team will undergo a full performance review annually and adjustments may be made to the line-up to maximise competitiveness of the team.
+
 # 5.	Assumptions
+
 ### 5.1 Key Assumptions
+
 ### 5.1.1 Correlation between player salary and performance
+
 In sport, it is typical for the best, high performing players to receive corresponding salaries in order to keep them with the teams. Although there are rare cases of overpay and player regression, this is a sound assumption in terms of gauging player skill as a whole. 
 
 ### 5.1.2 CAPM
+
 To derive the expected value of the franchise over 10 years, the discount rate was approximated by incorporating the CAPM assumptions and assuming they will not leverage their organisation. Since 0 debt was used over the horizon, the cost of capital was simply the cost of equity which was determined using the CAPM equation. The unlevered beta of 1.12 was extrapolated from the international peers median and the market return of 10% was the average return from the last 10 years.
 
 ### 5.2 Minor Assumptions
+
 •	Exchange rate
 o	Constant foreign exchange rates.
 •	Inflation
@@ -130,6 +128,9 @@ o	22 players with two forwards, four midfielders, four defenders and one goalkee
 # 6. Risk and Risk Mitigation Considerations 
 
 The mitigation of intrinsic and extrinsic risk factors arising from the launch of this new team is central to risk control. This can be achieved through reductions in the incidence with which adverse events occur (preventive interventions) or through reductions in the severity of the outcomes from the adverse events (therapeutic interventions).
+
+![image](https://user-images.githubusercontent.com/103165229/162574196-bbb7623d-912b-497f-affd-8317e6b3cb8b.png)
+
 
 ### 6.1 Player Injury 
 This is the most devastating risk, in terms of both probability and impact. The most common injuries sustained while playing soccer are bruising, sprains, strains, fractures and dislocations and are caused mainly by contact and falls.
