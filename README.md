@@ -151,13 +151,15 @@ The mitigation of intrinsic and extrinsic risk factors arising from the launch o
 
 # 7.	Data and Data Limitations 
 
-With the information provided, our team opted to utilised the tournament data over the league data for our team selection criteria as it was deemed more appropriate for RNT after careful consideration of the benefits and disadvantages.
+* With the information provided, our team opted to utilised the tournament data over the league data for our team selection criteria as it was deemed more appropriate for RNT after careful consideration of the benefits and disadvantages.
+* Such benefits included that RNT would be facing a tournament structure rather than a league structure and thus their approaches to the game would be quite different as League games require teams to have more depth in their squad to reduce fatigue as there are more games whereas tournament games are “win or go home” situations which would require line-ups to be the stronger than usual.
+* However, there are several data limitations regarding intangible metrics (Appendix H). 
+  + Further limitations include the tournament data documented in a biased manner, whereby, the number of games played by each team was not constant. To counter the effect of this limitation, statistics were analysed on a per game basis. 
+  + Additionally, the sample sizes were significantly lower than reality; with each team averaging approximately five games compared to the thirty-eight games in regular league seasons. 
+  + An analysis was conducted on the top three teams in 2020 and 2021 instead of the top team to increase the reliability and validity and it enabled us to conduct an in-depth and a higher weighting when analysing the data on nations Nganion and Sobianitedrucy as both teams were top three in both 2020 and 2021.
 
-Such benefits included that RNT would be facing a tournament structure rather than a league structure and thus their approaches to the game would be quite different as League games require teams to have more depth in their squad to reduce fatigue as there are more games whereas tournament games are “win or go home” situations which would require line-ups to be the stronger than usual.
-
-However, there are several data limitations regarding intangible metrics (Appendix H). Further limitations include the tournament data documented in a biased manner, whereby, the number of games played by each team was not constant. To counter the effect of this limitation, statistics were analysed on a per game basis. Additionally, the sample sizes were significantly lower than reality; with each team averaging approximately five games compared to the thirty-eight games in regular league seasons. An analysis was conducted on the top three teams in 2020 and 2021 instead of the top team to increase the reliability and validity and it enabled us to conduct an in-depth and a higher weighting when analysing the data on nations Nganion and Sobianitedrucy as both teams were top three in both 2020 and 2021.
-
-Some key notes that were discovered when conducting our analysis is that DQL did not have a goalkeeper in both tournaments (Appendix I). Missing data in the form of player accolades such as past captaincy, championships and individual player awards would have proved to be useful, especially to gauge characteristics which are difficult to do so with more traditional data, i.e., leadership traits and ‘star power’.
+* Some key notes that were discovered when conducting our analysis is that DQL did not have a goalkeeper in both tournaments (Appendix I). 
+  + Missing data in the form of player accolades such as past captaincy, championships and individual player awards would have proved to be useful, especially to gauge characteristics which are difficult to do so with more traditional data, i.e., leadership traits and ‘star power’.
 
 
 
