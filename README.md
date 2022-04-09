@@ -150,7 +150,6 @@ The mitigation of intrinsic and extrinsic risk factors arising from the launch o
 
 
 
-
 # 7.	Data and Data Limitations 
 
 With the information provided, our team opted to utilised the tournament data over the league data for our team selection criteria as it was deemed more appropriate for RNT after careful consideration of the benefits and disadvantages.
