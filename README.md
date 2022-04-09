@@ -1,5 +1,10 @@
-![](football_title.gif)
-
+<p align="center">
+  <img 
+    width="700"
+    height="700"
+    src="football_title.gif"
+  >
+</p>
 
 # 1.	Objectives of Analysis
 This report details the construction of a “competitive” national football team for the country of Rarita in order to build their brand and achieve a positive economic impact for the country. A statistical analysis of the players' historic performance data was used to determine the selection criteria used to form the team. A 10-year projected forecasting analysis on the revenue and expenses of the formulated team was performed in order to predict the impacts on Rarita's economy; specifically, it's GDP, employment rate, and tourism industry. The report deconstructs the intrinsic and extrinsic risk factors arising from the launch of the new national team and highlights mitigation strategies, delves into data limitations and presents the documentation of the team construction process.
