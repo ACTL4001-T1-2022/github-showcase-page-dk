@@ -18,7 +18,7 @@ The selection criteria for the Rarita National Team (RNT) established was based 
 ![image](https://user-images.githubusercontent.com/103165229/162574108-aa73d899-a012-4a24-b838-b74f85a30085.png)
 
 
-From our analysis, the general trend reflected that winning teams averaged significantly higher goals relative to the mean as they were able to either effectively establish a strong offence with a higher number of shots per game or demonstrate a stronger finishing rate reflected in low shots on target to goal ratio relative to the average in the tournament
+From our analysis, the general trend reflected that winning teams averaged significantly higher goals relative to the mean as they were able to either effectively establish a strong offence with a higher number of shots per game or demonstrate a stronger finishing rate reflected in low shots on target to goal ratio relative to the average in the tournament.
 
 ### 2.1.2 Passing
  	
