@@ -59,13 +59,20 @@ The revenue forecasting was also determined using a 3-year moving average and th
 
 ## 3.1 Impact on GDP and other economic indices
 
-The construction of a competitive team and the expansion of football in terms of sport leads to several notable impacts on the economy. Gross Domestic Product (GDP) is a commonly used metric to determine the economic presence of certain industries and products, which is applicable to Rarita and its national team, Sports to $14.4 billion of the GDP and 128,443 Full-Time Equivalent (FTE) jobs of a country according to an Australian study, whereby football has a 7% stake in the Sales figure of $32 million and Domestic Production of $29 million. A pair of analytical models performed to gauge the economic impact of football indicated through an Economic Impact Analysis (EIA) that even medium sized events generated a net increase in economic activity in the medium sized city within the study of $5.6 million (Taks et al. 2011). This accentuates Rarita’s forecasted positive economic impact as a direct result of the competitive team, through a combination of its increasing GDP and employment. 
-However, it must be noted that stadiums are costly buildings to construct and the same study (Taks et al. 2011) showed that when conducting a Cost Benefit Analysis (CBA), there was a net negative of $2.4 million, much of which is attributable to the costs associated with stadium construction, coming to $9.6 million (Appendix C). New stadium structures or improvements evoke the novelty effect (Appendix D). Thus, Rarita is able to uphold such positive impacts by ensuring sustainability in the construction and renovation of the stadium.
+The construction of a competitive team and the expansion of football in terms of sport leads to several notable impacts on the economy. 
+* Gross Domestic Product (GDP) is a commonly used metric to determine the economic presence of certain industries and products, which is applicable to Rarita and its national team
+  + Sports to $14.4 billion of the GDP and 128,443 Full-Time Equivalent (FTE) jobs of a country according to an Australian study, whereby football has a 7% stake in the Sales figure of $32 million and Domestic Production of $29 million.
+  + A pair of analytical models performed to gauge the economic impact of football indicated through an Economic Impact Analysis (EIA) that even medium sized events generated a net increase in economic activity in the medium sized city within the study of $5.6 million (Taks et al. 2011). 
+  + This accentuates Rarita’s forecasted positive economic impact as a direct result of the competitive team, through a combination of its increasing GDP and employment. 
+* However, it must be noted that stadiums are costly buildings to construct and the same study (Taks et al. 2011) showed that when conducting a Cost Benefit Analysis (CBA), there was a net negative of $2.4 million, much of which is attributable to the costs associated with stadium construction, coming to $9.6 million (Appendix C). 
+* New stadium structures or improvements evoke the novelty effect (Appendix D). Thus, Rarita is able to uphold such positive impacts by ensuring sustainability in the construction and renovation of the stadium.
 
 ## 3.2 Impact on related industries and Rarita provinces
 
-There is an undeniable economic impact that winning and competitive teams have, despite the significant subsidy of the stadium that must be acknowledged, where teams create job opportunities, team sales, tax revenue, increases in tourism, and consumer spending. Winning teams have the highest average values for interest and, by a wide margin, willingness-to-pay from the fanbase. Both franchises in this study had also been the most successful teams in their cities in the years immediately preceding the survey. The Vikings, with one highly successful (15-1) season, garnered much more support (Owen et al. 2006). This further underlines the notion that cities with more than one sports team have higher per capita money incomes than cities without any teams (Gius et al. 2001).
-Another aspect that must be considered in terms of economics is the intangibles that are difficult to gauge with traditional metrics. This includes cultural changes within the city which is further boosted through marketing and advertisements, which leads to a ‘major team city’ image that contributes to the economy and tourism, along with a ‘civic pride’ generated from being a part of such a city (Appendix E).  
+* There is an undeniable economic impact that winning and competitive teams have, despite the significant subsidy of the stadium that must be acknowledged, where teams create job opportunities, team sales, tax revenue, increases in tourism, and consumer spending. Winning teams have the highest average values for interest and, by a wide margin, willingness-to-pay from the fanbase. 
+  + Both franchises in this study had also been the most successful teams in their cities in the years immediately preceding the survey. The Vikings, with one highly successful (15-1) season, garnered much more support (Owen et al. 2006). 
+  + This further underlines the notion that cities with more than one sports team have higher per capita money incomes than cities without any teams (Gius et al. 2001).
+* Another aspect that must be considered in terms of economics is the intangibles that are difficult to gauge with traditional metrics. This includes cultural changes within the city which is further boosted through marketing and advertisements, which leads to a ‘major team city’ image that contributes to the economy and tourism, along with a ‘civic pride’ generated from being a part of such a city (Appendix E).  
 
 # 4.	Implementation Plan
 
@@ -117,21 +124,21 @@ The mitigation of intrinsic and extrinsic risk factors arising from the launch o
 
 
 ## 6.1 Player Injury 
-This is the most devastating risk, in terms of both probability and impact. The most common injuries sustained while playing soccer are bruising, sprains, strains, fractures and dislocations and are caused mainly by contact and falls.
-MITIGATION: Both preventative and therapeutic interventions can be applied to reduce the risk of player injury. Measures taken against excessive game time and bad player habits can mitigate this. Reductions in severity can be achieved through improvements in specialist medical expertise and facilities or rehabilitation functional recovery procedures (Fuller CW 2004).
+* This is the most devastating risk, in terms of both probability and impact. The most common injuries sustained while playing soccer are bruising, sprains, strains, fractures and dislocations and are caused mainly by contact and falls.
+  + MITIGATION: Both preventative and therapeutic interventions can be applied to reduce the risk of player injury. Measures taken against excessive game time and bad player habits can mitigate this. Reductions in severity can be achieved through improvements in specialist medical expertise and facilities or rehabilitation functional recovery procedures (Fuller CW 2004).
  
 ## 6.2 Natural Disasters 
 
-Rarita may be subjected to catastrophic events such as earthquakes, floods, bush fires, tsunamis, volcanic eruptions, etc. As Rarita can be a hotspot or a neighbouring country of a hotspot, this may result in the destruction of sports facilities.
-MITIGATION: As these external risks are hard to predict and control, the only way to offset losses is to cede the risk to an insurer. Although paying premiums to a catastrophe insurance provider might be costly, it is worth the costs as catastrophic events can incur huge losses.
+* Rarita may be subjected to catastrophic events such as earthquakes, floods, bush fires, tsunamis, volcanic eruptions, etc. As Rarita can be a hotspot or a neighbouring country of a hotspot, this may result in the destruction of sports facilities.
+  + MITIGATION: As these external risks are hard to predict and control, the only way to offset losses is to cede the risk to an insurer. Although paying premiums to a catastrophe insurance provider might be costly, it is worth the costs as catastrophic events can incur huge losses.
 
 ## 6.3 Exchange Rate Risk 
-Sports franchises incur a huge amount of foreign market exposure as they are dealing with competitors worldwide. Every transaction is affected by the exchange rate between competitors such as a new loan provision - a player gets lent to another team where the lending country charges a fee of 10% of the player’s salary. 
-MITIGATION: To minimise losses during adverse exchange rate movements the Rarita sports franchise could hedge against the risk using currency forwards. Rarita can enter into a forwards contract to sell ‘target’ currency (an amount equal to 10% of players' salary) and buy Doubloons at a 1-year forward rate to hedge against FX market exposure.  
+* Sports franchises incur a huge amount of foreign market exposure as they are dealing with competitors worldwide. Every transaction is affected by the exchange rate between competitors such as a new loan provision - a player gets lent to another team where the lending country charges a fee of 10% of the player’s salary. 
+  + MITIGATION: To minimise losses during adverse exchange rate movements the Rarita sports franchise could hedge against the risk using currency forwards. Rarita can enter into a forwards contract to sell ‘target’ currency (an amount equal to 10% of players' salary) and buy Doubloons at a 1-year forward rate to hedge against FX market exposure.  
 
 ## 6.4 Performance Risk 
-If a player underperforms, demand and salary for that player will decrease, resulting in reduced cash inflows from subsequent player transactions. As players are in a highly exposed environment, this will result in a tainted reputation which may decrease the team’s revenue and contribute to their market risk.
-MITIGATION: Ensure extensive preliminary scouting has been done before finalising player contracts. Hold mandatory educational courses for all new players regarding media and relations, ensure healthy play-agent relationship to promote good PR and brand recognition.
+* If a player underperforms, demand and salary for that player will decrease, resulting in reduced cash inflows from subsequent player transactions. As players are in a highly exposed environment, this will result in a tainted reputation which may decrease the team’s revenue and contribute to their market risk.
+  + MITIGATION: Ensure extensive preliminary scouting has been done before finalising player contracts. Hold mandatory educational courses for all new players regarding media and relations, ensure healthy play-agent relationship to promote good PR and brand recognition.
 
 
 
