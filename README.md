@@ -32,7 +32,7 @@ A common trend amongst winning teams is their ability to have high pass completi
 ![image](https://user-images.githubusercontent.com/103165229/162574125-aabde669-bc9c-4193-9b83-158cca68bfad.png)
 
 
-## 2.1.4 Goalkeeping
+### 2.1.4 Goalkeeping
 
 ![image](https://user-images.githubusercontent.com/103165229/162574141-84b26656-d167-4f33-b92d-176c036d6eb1.png)
 
