@@ -1,5 +1,5 @@
 
-->![](football_title.gif)<-
+                                                                     ![](football_title.gif)
 
 
 # 1.	Objectives of Analysis
