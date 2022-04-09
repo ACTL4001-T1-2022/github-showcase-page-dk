@@ -20,3 +20,13 @@ This is written in markdown language.
 
 More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
+
+
+### 1.	Objectives of Analysis
+This report details the construction of a “competitive” national football team for the country of Rarita in order to build their brand and achieve a positive economic impact for the country. A statistical analysis of the players' historic performance data was used to determine the selection criteria used to form the team. A 10-year projected forecasting analysis on the revenue and expenses of the formulated team was performed in order to predict the impacts on Rarita's economy; specifically, it's GDP, employment rate, and tourism industry. The report deconstructs the intrinsic and extrinsic risk factors arising from the launch of the new national team and highlights mitigation strategies, delves into data limitations and presents the documentation of the team construction process.
+![image](https://user-images.githubusercontent.com/103165229/162573781-25d72ab1-c5f5-4738-af5b-b39edf7bdd3e.png)
+
+### 2.	Team Selection
+2.1 Criteria for Selection
+The selection criteria for the Rarita National Team (RNT) established was based on the success of winning teams and which statistics reflected significant relevance that contributed to their accomplishments (Appendix A). Our analysis focused on four sub-categories, offense, passing, defense and goalkeeping based on the top teams’ statistics in both 2020 and 2021. The top teams in 2020 and 2021 were determined to be Sobianitedrucy (SBD), Nganion (NGN), Dosqaly (DQL), and People's Land of Maneau (PLM).
+![image](https://user-images.githubusercontent.com/103165229/162573899-88ea1cf0-d9aa-4a8f-9456-4ad5d69c9b02.png)
