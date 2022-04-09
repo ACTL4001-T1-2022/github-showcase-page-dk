@@ -13,7 +13,7 @@ This report details the construction of a “competitive” national football te
 2.1 Criteria for Selection
 The selection criteria for the Rarita National Team (RNT) established was based on the success of winning teams and which statistics reflected significant relevance that contributed to their accomplishments (Appendix A). Our analysis focused on four sub-categories, offense, passing, defense and goalkeeping based on the top teams’ statistics in both 2020 and 2021. The top teams in 2020 and 2021 were determined to be Sobianitedrucy (SBD), Nganion (NGN), Dosqaly (DQL), and People's Land of Maneau (PLM).
 
-### 2.1.1 Shooting   
+## 2.1.1 Shooting   
 
 ![image](https://user-images.githubusercontent.com/103165229/162574108-aa73d899-a012-4a24-b838-b74f85a30085.png)
 
@@ -39,17 +39,17 @@ A common trend amongst winning teams is their ability to have high pass completi
 
 The findings behind the winning teams’ defense shockingly unveiled slightly below average statistics such as tackles, blocking shots, clearances, and interceptions (except for PLM). However, these teams still manage to have a significantly lower number of goals conceded and higher percentages of save per shot on target. Hence, upon team selection, defense statistics should be weighted less into consideration but a strong goalkeeper with a high percentage save per shot on target is recommended.
 
-### 2.2	Probability ranges
+## 2.2	Probability ranges
 
 A “high probability” of a championship in any given year is 20%. This probability was deduced based on various statistical models on the previous two FIFA World Cups detailing the likelihood of favorites winning the tournament at 15-17% ranges. Therefore, 20% would be an excellent margin in terms of ‘high probability’. These numbers were calculated through prediction models which ran 10,000 random simulations of the game while incorporating league data, squad statistics, player history, and match conditions. These simulations were run using the rating-based model which is similar to the FIFA world cup system.
 
-### 2.3 Spending
+## 2.3 Spending
 
  ![image](https://user-images.githubusercontent.com/103165229/162574163-9ef056f6-223f-4418-8243-d8c0f12e813d.png)
 
 The initial spending required at 2022 was determined to be 2,896,274,482 Doubloons consisting of operating costs and player acquisition costs. Operating costs include wages, facility management, rent, and other overhead costs while player costs involve scouting and 1-year term contract purchases. Using our team selection metric alongside the assumption that player’s salaries give an accurate representation of their performance, 22 players were contracted totalling 365,490,000 Doubloons (Appendix B). The total expense by 2031 was forecasted to be 18,967,006,753 Doubloons.
 
-### 2.4 Direct Team Revenue
+## 2.4 Direct Team Revenue
 
  ![image](https://user-images.githubusercontent.com/103165229/162574169-5fe5f4a4-e409-475d-9562-e18b9eac8c23.png)
 
@@ -57,19 +57,19 @@ The revenue forecasting was also determined using a 3-year moving average and th
 
 # 3.	Economic Impact
 
-### 3.1 Impact on GDP and other economic indices
+## 3.1 Impact on GDP and other economic indices
 
 The construction of a competitive team and the expansion of football in terms of sport leads to several notable impacts on the economy. Gross Domestic Product (GDP) is a commonly used metric to determine the economic presence of certain industries and products, which is applicable to Rarita and its national team, Sports to $14.4 billion of the GDP and 128,443 Full-Time Equivalent (FTE) jobs of a country according to an Australian study, whereby football has a 7% stake in the Sales figure of $32 million and Domestic Production of $29 million. A pair of analytical models performed to gauge the economic impact of football indicated through an Economic Impact Analysis (EIA) that even medium sized events generated a net increase in economic activity in the medium sized city within the study of $5.6 million (Taks et al. 2011). This accentuates Rarita’s forecasted positive economic impact as a direct result of the competitive team, through a combination of its increasing GDP and employment. 
 However, it must be noted that stadiums are costly buildings to construct and the same study (Taks et al. 2011) showed that when conducting a Cost Benefit Analysis (CBA), there was a net negative of $2.4 million, much of which is attributable to the costs associated with stadium construction, coming to $9.6 million (Appendix C). New stadium structures or improvements evoke the novelty effect (Appendix D). Thus, Rarita is able to uphold such positive impacts by ensuring sustainability in the construction and renovation of the stadium.
 
-### 3.2 Impact on related industries and Rarita provinces
+## 3.2 Impact on related industries and Rarita provinces
 
 There is an undeniable economic impact that winning and competitive teams have, despite the significant subsidy of the stadium that must be acknowledged, where teams create job opportunities, team sales, tax revenue, increases in tourism, and consumer spending. Winning teams have the highest average values for interest and, by a wide margin, willingness-to-pay from the fanbase. Both franchises in this study had also been the most successful teams in their cities in the years immediately preceding the survey. The Vikings, with one highly successful (15-1) season, garnered much more support (Owen et al. 2006). This further underlines the notion that cities with more than one sports team have higher per capita money incomes than cities without any teams (Gius et al. 2001).
 Another aspect that must be considered in terms of economics is the intangibles that are difficult to gauge with traditional metrics. This includes cultural changes within the city which is further boosted through marketing and advertisements, which leads to a ‘major team city’ image that contributes to the economy and tourism, along with a ‘civic pride’ generated from being a part of such a city (Appendix E).  
 
 # 4.	Implementation Plan
 
-### 4.1 Proposal
+## 4.1 Proposal
 Team selection of Rarita’s National Team will be conducted based on the criteria discussed previously whereby the focus will surround a player’s salary and key skills. As there are enough capable players from Rarita, seeking player loans are unnecessary, hence the squad selection is as follows, (Appendix F). In the future, the Rarita National Team should constantly adapt to the rapidly changing football world either by investing into fostering young talent in academy teams or scouting promising players.
 
 A general timeline which the RNT should follow within the next ten years is:
@@ -82,24 +82,24 @@ This revenue consists of merchandising revenue, gate receipts and revenue from m
 
  ![image](https://user-images.githubusercontent.com/103165229/162574182-935420df-bc1c-4608-a637-8e2f8030bc21.png)
 
-### 4.2 Key Monitoring Metrics
+## 4.2 Key Monitoring Metrics
 
 Key metrics to be used to monitor the team’s progress over the next 10 years include their win-loss record over the season, performance against upper tier teams (above 0.500 win%) versus lower tier teams (below 0.500 win%), consistency in record, brand value, revenue generated and aggregate market value of the players (Appendix G).
 Collation of these metrics should occur twice a season in order for progress overview and feedback for improvement; such as highlighting areas of underperformance, budget allocation, and marketing plan. The team will undergo a full performance review annually and adjustments may be made to the line-up to maximise competitiveness of the team.
 
 # 5.	Assumptions
 
-### 5.1 Key Assumptions
+## 5.1 Key Assumptions
 
-#### 5.1.1 Correlation between player salary and performance
+### 5.1.1 Correlation between player salary and performance
 
 In sport, it is typical for the best, high performing players to receive corresponding salaries in order to keep them with the teams. Although there are rare cases of overpay and player regression, this is a sound assumption in terms of gauging player skill as a whole. 
 
-#### 5.1.2 CAPM
+### 5.1.2 CAPM
 
 To derive the expected value of the franchise over 10 years, the discount rate was approximated by incorporating the CAPM assumptions and assuming they will not leverage their organisation. Since 0 debt was used over the horizon, the cost of capital was simply the cost of equity which was determined using the CAPM equation. The unlevered beta of 1.12 was extrapolated from the international peers median and the market return of 10% was the average return from the last 10 years.
 
-### 5.2 Minor Assumptions
+## 5.2 Minor Assumptions
 
 •	Exchange rate
 o	Constant foreign exchange rates.
@@ -116,20 +116,20 @@ The mitigation of intrinsic and extrinsic risk factors arising from the launch o
 ![image](https://user-images.githubusercontent.com/103165229/162574196-bbb7623d-912b-497f-affd-8317e6b3cb8b.png)
 
 
-### 6.1 Player Injury 
+## 6.1 Player Injury 
 This is the most devastating risk, in terms of both probability and impact. The most common injuries sustained while playing soccer are bruising, sprains, strains, fractures and dislocations and are caused mainly by contact and falls.
 MITIGATION: Both preventative and therapeutic interventions can be applied to reduce the risk of player injury. Measures taken against excessive game time and bad player habits can mitigate this. Reductions in severity can be achieved through improvements in specialist medical expertise and facilities or rehabilitation functional recovery procedures (Fuller CW 2004).
  
-### 6.2 Natural Disasters 
+## 6.2 Natural Disasters 
 
 Rarita may be subjected to catastrophic events such as earthquakes, floods, bush fires, tsunamis, volcanic eruptions, etc. As Rarita can be a hotspot or a neighbouring country of a hotspot, this may result in the destruction of sports facilities.
 MITIGATION: As these external risks are hard to predict and control, the only way to offset losses is to cede the risk to an insurer. Although paying premiums to a catastrophe insurance provider might be costly, it is worth the costs as catastrophic events can incur huge losses.
 
-### 6.3 Exchange Rate Risk 
+## 6.3 Exchange Rate Risk 
 Sports franchises incur a huge amount of foreign market exposure as they are dealing with competitors worldwide. Every transaction is affected by the exchange rate between competitors such as a new loan provision - a player gets lent to another team where the lending country charges a fee of 10% of the player’s salary. 
 MITIGATION: To minimise losses during adverse exchange rate movements the Rarita sports franchise could hedge against the risk using currency forwards. Rarita can enter into a forwards contract to sell ‘target’ currency (an amount equal to 10% of players' salary) and buy Doubloons at a 1-year forward rate to hedge against FX market exposure.  
 
-### 6.4 Performance Risk 
+## 6.4 Performance Risk 
 If a player underperforms, demand and salary for that player will decrease, resulting in reduced cash inflows from subsequent player transactions. As players are in a highly exposed environment, this will result in a tainted reputation which may decrease the team’s revenue and contribute to their market risk.
 MITIGATION: Ensure extensive preliminary scouting has been done before finalising player contracts. Hold mandatory educational courses for all new players regarding media and relations, ensure healthy play-agent relationship to promote good PR and brand recognition.
 
